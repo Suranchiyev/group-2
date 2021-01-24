@@ -16,6 +16,10 @@ public class Anagram {
 		//System.out.println(isAnagram2("aaaacc", "aacccc")); // anagram2 is not best option
 		
 	}
+
+
+
+
 	
 	/**
 	 *  isAnagram("listen", "silent") -> true

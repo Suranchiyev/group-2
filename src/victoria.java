@@ -3,6 +3,11 @@ public class victoria {
 		System.out.println("Commit");
 		System.out.println("Practice");
 		System.out.println("Test");
-	
+		System.out.println("Commit");
+		System.out.println("Practice");
+		System.out.println("Test");System.out.println("Commit");
+		System.out.println("Practice");
+		System.out.println("Test");
+
 	}
 }

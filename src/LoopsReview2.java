@@ -45,6 +45,7 @@ public class LoopsReview2 {
 		String[] names = { "Smith", "John", "Alex", "Kuba" };
 		for (String name : names) {
 			System.out.println(name.toUpperCase());
+			System.out.println("Alisher REviewed");
 		}
 
 	}
